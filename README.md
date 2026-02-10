@@ -1,5 +1,8 @@
 # R3F character controller demo
 
+
+![image](https://raw.githubusercontent.com/ordengine/r3f-character-controller-demo/refs/heads/main/Screenshot%20from%202026-02-10%2014-21-00.png)
+
 ## local development
 
 1. install
